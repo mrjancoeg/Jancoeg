@@ -4,7 +4,7 @@ $red="\033[1;31m";
 //flag
 print"$ijo
 ========================================================\n
-[][][] [][]   []   []$blue AWAS! KENEK BANNED!!!$red Banned$pink
+[][][] [][]   []   []$blue AWAS! KENEK BANNED!!!$red
 ========================================================\n$biru";
 function id($token,$jumlah,$wait)
 {
