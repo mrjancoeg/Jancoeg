@@ -10,10 +10,10 @@ $kuning="\033[1;33m";
 //flag
 print"$ijo
 ========================================================\n
-[]  [] [][][] [][][]$red  !!!! WARNING !!!!$pink
-[]  [] []     []   []$red ==> Bot Ilegal <==$pink
-[][][] [][]   []   []$kuning bisa kena $red Banned$pink
-[]  [] []     []   []$pink pergunakan dengan bijak$ijo
+[]  [] [][][] [][][]$red  IKI BOT ILEGAL!!!$pink
+[]  [] []     []   []$red ==> OJO DI ADOL TINUKU!<==$pink
+[][][] [][]   []   []$blue AWAS! KENEK BANNED!!!$red Banned$pink
+[]  [] []     []   []$pink HAHAHAHAHA!!!$ijo
 []  [] [][][] [][][]$biru   Te$turkis ri$ijo ma$pink ka$kuning sih\n$ijo
 ========================================================\n$biru";
 function id($token,$jumlah,$wait)
